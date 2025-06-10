@@ -1,0 +1,145 @@
+,Unnamed: 0,Unnamed: 1,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+0,BioChem,Xgboost,0,3,3,4,9,12,22,27,37,60,42
+1,BioChem,naive bayes,10,7,8,10,14,8,13,16,15,20,8
+2,BioChem,bayesian network*,19,14,14,11,23,15,27,28,26,22,9
+3,BioChem,genetic algorithm*,85,83,60,73,77,78,91,98,94,123,47
+4,BioChem,particle swarm,5,11,11,7,9,10,5,15,8,9,9
+5,BioChem,decision tree*,40,53,39,51,95,70,110,81,78,108,49
+6,BioChem,random forest*,52,64,49,76,117,121,188,193,226,323,176
+7,BioChem,neural network*,78,98,107,171,288,333,528,612,665,919,448
+8,BioChem,back propagation,3,2,4,0,0,4,4,3,3,1,1
+9,BioChem,feedforward,7,8,8,14,14,17,15,13,10,13,4
+10,BioChem,nearest neigh*,15,9,4,21,25,20,40,40,46,72,39
+11,BioChem,support vector*,109,109,81,125,139,122,192,208,199,297,127
+12,BioChem,regression,2,1,1,3,14,18,29,38,39,46,25
+13,BioChem,gaussian process,3,5,6,5,4,3,7,5,13,11,3
+14,BioChem,deep learning,10,15,39,94,217,282,443,644,724,1024,548
+15,BioChem,AI,40,51,39,53,104,115,220,301,457,897,558
+16,BioChem,CNN*,3,4,11,16,38,39,39,63,54,97,55
+17,BioChem,GNN*,5,2,4,0,4,9,26,46,72,125,60
+18,BioChem,Transformer*,4,6,6,6,8,14,31,64,110,191,100
+19,BioChem,autoencoder,0,0,4,7,11,21,39,40,52,59,40
+20,BioChem,de novo,0,1,2,12,11,4,26,20,34,21,12
+21,BioChem,Graph-based,7,5,5,6,15,14,35,38,50,70,41
+22,BioChem,diffusion model,2,14,11,13,14,15,15,15,30,58,29
+23,BioChem,machine learning,174,176,226,364,569,666,1043,1157,1460,2144,1076
+24,ChemInfo,Xgboost,0,3,3,3,9,12,22,25,37,54,31
+25,ChemInfo,naive bayes,11,9,13,15,11,8,15,13,14,16,5
+26,ChemInfo,bayesian network*,11,11,9,10,11,12,10,21,14,11,4
+27,ChemInfo,genetic algorithm*,51,73,42,43,67,67,76,85,75,83,22
+28,ChemInfo,particle swarm,8,9,9,6,9,8,6,12,8,7,4
+29,ChemInfo,decision tree*,37,44,38,47,80,66,111,86,60,87,46
+30,ChemInfo,random forest*,49,58,54,81,105,113,159,160,181,258,120
+31,ChemInfo,neural network*,69,66,84,167,281,319,459,617,647,841,413
+32,ChemInfo,back propagation,3,1,0,0,1,5,3,3,4,3,0
+33,ChemInfo,feedforward,2,1,1,0,5,6,2,10,5,3,3
+34,ChemInfo,nearest neigh*,13,9,9,24,25,20,45,42,44,69,37
+35,ChemInfo,support vector*,94,76,82,112,121,106,165,169,153,206,99
+36,ChemInfo,regression,0,1,1,3,14,18,31,37,44,50,25
+37,ChemInfo,gaussian process,3,6,6,14,15,7,7,6,13,18,12
+38,ChemInfo,deep learning,6,13,32,98,211,265,388,559,663,929,482
+39,ChemInfo,AI,3,7,7,31,56,71,165,247,381,771,461
+40,ChemInfo,CNN*,0,0,3,14,31,25,31,60,54,91,53
+41,ChemInfo,GNN*,0,1,0,0,2,7,25,49,79,128,63
+42,ChemInfo,Transformer*,1,0,0,0,1,14,28,60,105,187,95
+43,ChemInfo,autoencoder,0,2,3,7,14,19,40,41,46,59,35
+44,ChemInfo,de novo,0,0,1,10,11,4,25,23,34,23,11
+45,ChemInfo,Graph-based,6,3,4,6,10,17,29,39,54,72,44
+46,ChemInfo,diffusion model,5,1,1,3,3,4,4,5,18,46,24
+47,ChemInfo,machine learning,172,175,208,354,526,629,947,1049,1283,1846,875
+48,ChemTox,Xgboost,0,0,3,0,4,8,15,18,40,75,62
+49,ChemTox,naive bayes,7,5,13,7,8,19,24,29,28,32,11
+50,ChemTox,bayesian network*,23,29,21,33,38,37,56,81,75,71,34
+51,ChemTox,genetic algorithm*,35,45,33,39,55,73,90,96,103,130,64
+52,ChemTox,particle swarm,4,2,3,3,9,11,13,20,25,25,13
+53,ChemTox,decision tree*,47,54,53,72,98,95,165,184,155,172,94
+54,ChemTox,random forest*,29,41,58,53,88,108,184,221,269,394,231
+55,ChemTox,neural network*,65,102,97,164,208,285,385,490,564,692,345
+56,ChemTox,back propagation,1,1,0,3,0,3,4,4,8,11,2
+57,ChemTox,feedforward,5,4,5,11,5,5,10,14,9,13,7
+58,ChemTox,nearest neigh*,5,5,8,9,17,19,33,51,52,70,38
+59,ChemTox,support vector*,62,57,61,81,85,120,163,206,237,295,168
+60,ChemTox,regression,1,0,1,2,6,13,13,26,29,41,24
+61,ChemTox,gaussian process,25,17,19,19,21,25,35,40,38,37,12
+62,ChemTox,deep learning,3,7,9,43,74,162,221,315,388,532,275
+63,ChemTox,AI,45,55,43,72,97,100,154,223,324,497,328
+64,ChemTox,CNN*,2,0,10,20,21,29,39,72,96,107,69
+65,ChemTox,GNN*,1,0,2,0,1,1,1,6,17,21,16
+66,ChemTox,Transformer*,13,21,17,17,22,25,65,66,99,101,50
+67,ChemTox,autoencoder,0,0,2,1,3,6,10,20,15,22,9
+68,ChemTox,de novo,0,0,0,1,2,2,4,2,2,6,6
+69,ChemTox,Graph-based,3,0,3,2,6,7,10,8,11,19,11
+70,ChemTox,diffusion model,17,30,27,42,44,41,57,39,62,69,27
+71,ChemTox,machine learning,86,86,126,181,300,442,649,835,1117,1605,835
+72,ComChem,Xgboost,0,3,3,5,13,26,33,36,48,107,61
+73,ComChem,naive bayes,14,14,16,17,18,22,26,19,17,32,7
+74,ComChem,bayesian network*,30,32,20,26,30,25,35,40,56,50,18
+75,ComChem,genetic algorithm*,171,186,162,176,211,191,246,273,280,348,116
+76,ComChem,particle swarm,36,43,33,48,45,60,67,73,47,75,41
+77,ComChem,decision tree*,66,65,69,71,129,122,175,152,109,200,102
+78,ComChem,random forest*,81,101,96,115,176,189,245,234,257,426,203
+79,ComChem,neural network*,176,192,252,344,585,745,1054,1354,1564,2228,1055
+80,ComChem,back propagation,3,1,4,0,1,6,4,6,13,11,1
+81,ComChem,feedforward,5,12,9,11,10,20,18,26,25,31,16
+82,ComChem,nearest neigh*,23,15,16,32,38,39,65,72,71,125,64
+83,ComChem,support vector*,212,186,201,229,241,276,295,307,318,510,206
+84,ComChem,regression,2,2,3,5,17,23,42,56,55,72,30
+85,ComChem,gaussian process,13,9,22,32,27,41,37,44,50,52,28
+86,ComChem,deep learning,13,26,70,162,339,437,719,984,1163,1718,857
+87,ComChem,AI,20,28,22,68,109,125,293,413,680,1315,781
+88,ComChem,CNN*,4,9,18,32,67,61,90,133,143,248,125
+89,ComChem,GNN*,1,1,1,3,3,10,33,73,104,189,89
+90,ComChem,Transformer*,6,7,8,10,17,36,62,119,215,385,191
+91,ComChem,autoencoder,0,2,6,13,26,32,61,73,75,112,50
+92,ComChem,de novo,0,0,2,12,15,6,29,32,41,28,15
+93,ComChem,Graph-based,16,15,18,17,23,31,45,64,79,110,74
+94,ComChem,diffusion model,22,19,16,13,27,21,31,23,44,114,66
+95,ComChem,machine learning,297,349,457,718,1064,1422,2002,2403,3100,4553,2303
+96,MediChem,Xgboost,0,3,3,9,24,50,79,131,180,346,235
+97,MediChem,naive bayes,16,21,19,31,45,40,65,40,61,71,33
+98,MediChem,bayesian network*,86,67,63,65,111,119,151,170,169,161,61
+99,MediChem,genetic algorithm*,254,246,265,263,320,326,406,428,439,578,219
+100,MediChem,particle swarm,63,63,92,88,101,127,150,167,234,263,124
+101,MediChem,decision tree*,127,145,161,207,298,380,464,507,393,577,284
+102,MediChem,random forest*,124,187,177,243,353,474,673,859,1125,1531,870
+103,MediChem,neural network*,423,534,614,854,1257,1582,2246,2848,3235,4178,2089
+104,MediChem,back propagation,5,2,3,3,10,12,14,18,26,37,13
+105,MediChem,feedforward,40,43,42,51,57,82,81,97,94,92,31
+106,MediChem,nearest neigh*,24,14,16,39,57,59,133,125,177,242,151
+107,MediChem,support vector*,304,334,342,419,520,601,784,947,1033,1419,693
+108,MediChem,regression,1,4,4,13,29,56,83,90,154,190,80
+109,MediChem,gaussian process,51,53,57,73,84,116,158,203,204,260,126
+110,MediChem,deep learning,15,29,88,229,527,783,1186,1785,2228,3057,1546
+111,MediChem,AI,110,116,101,185,255,354,542,730,1090,1869,1157
+112,MediChem,CNN*,28,25,52,87,163,193,270,394,461,689,368
+113,MediChem,GNN*,9,5,6,5,8,21,32,84,119,214,103
+114,MediChem,Transformer*,89,89,95,99,109,131,181,240,440,701,381
+115,MediChem,autoencoder,1,4,9,21,32,59,93,126,148,217,109
+116,MediChem,de novo,0,1,1,12,14,5,30,35,42,32,17
+117,MediChem,Graph-based,17,22,23,24,26,49,62,85,101,145,78
+118,MediChem,diffusion model,237,227,281,214,276,326,300,310,322,378,203
+119,MediChem,machine learning,378,475,622,992,1574,2169,3257,4113,5148,7369,3952
+120,OrgChem,Xgboost,0,0,1,6,33,59,112,197,248,360,264
+121,OrgChem,naive bayes,37,24,34,30,37,50,74,66,88,108,48
+122,OrgChem,bayesian network*,92,67,72,86,103,142,141,179,156,169,85
+123,OrgChem,genetic algorithm*,411,323,339,334,376,387,477,431,434,512,172
+124,OrgChem,particle swarm,34,30,39,40,43,69,40,64,50,50,18
+125,OrgChem,decision tree*,187,205,204,227,328,397,556,650,519,692,301
+126,OrgChem,random forest*,197,260,256,311,500,700,997,1306,1505,2019,1158
+127,OrgChem,neural network*,463,524,612,752,1157,1553,2099,2572,2560,3046,1425
+128,OrgChem,back propagation,8,5,7,3,3,8,14,21,20,24,13
+129,OrgChem,feedforward,82,83,79,74,96,113,123,116,103,104,52
+130,OrgChem,nearest neigh*,29,31,21,46,60,76,147,173,243,320,198
+131,OrgChem,support vector*,477,498,535,545,639,819,986,1305,1384,1850,918
+132,OrgChem,regression,3,2,7,15,25,55,87,105,124,169,100
+133,OrgChem,gaussian process,21,31,35,25,28,32,51,44,50,57,30
+134,OrgChem,deep learning,24,33,141,243,565,846,1425,1990,2253,2786,1416
+135,OrgChem,AI,328,346,350,380,463,570,723,896,1062,1636,969
+136,OrgChem,CNN*,53,61,73,110,202,228,309,404,383,493,208
+137,OrgChem,GNN*,10,5,9,11,14,19,46,81,103,156,83
+138,OrgChem,Transformer*,44,42,47,42,50,60,120,211,366,502,262
+139,OrgChem,autoencoder,2,7,13,21,30,53,79,115,119,155,86
+140,OrgChem,de novo,0,1,2,5,11,5,17,25,25,21,17
+141,OrgChem,Graph-based,27,36,45,41,40,67,80,91,113,120,62
+142,OrgChem,diffusion model,65,79,96,81,112,117,111,95,145,218,82
+143,OrgChem,machine learning,615,689,914,1251,1875,2640,3894,4989,6034,7941,4091
